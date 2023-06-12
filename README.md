@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yusufTopal
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning backend development.
 - 📫 You can reach via [LinkedIn](https://www.linkedin.com/in/yusuf-topal)
 
 <!---
