@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yusufTopal
+- Working as Software Development Engineer in Testing
 - 👀 I’m interested in software development and testing.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/yusuf-topal)
 
